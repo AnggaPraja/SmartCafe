@@ -1,0 +1,23 @@
+.carousel{
+    height:80%;
+}
+
+.carousel-inner{
+    height: 100%;
+}
+
+.carousel-caption{
+    color: black;
+    left: 0px;
+    top: 70%;
+    right: 10vw;
+    padding-top:8vh;
+}
+
+.carousel-item{
+    margin-left: 20%;
+}
+
+.carousel-indicators{
+    content: "•";
+}
