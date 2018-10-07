@@ -21,3 +21,18 @@
 .carousel-indicators{
     content: "•";
 }
+
+.full{
+   background: #f44336;
+   text-align: center;
+}
+
+.empty{
+    background: #cfd8dc;
+    text-align: center;
+ }
+
+ .font60{
+     font-size: 60px;
+     color:#fafafa;
+ }
